@@ -15,16 +15,6 @@ A hotel booking system built with Java that allows users to check in, view room 
 - **Swing GUI**: For the graphical user interface (NetBeans GUI Builder).
 - **File I/O or Database**: For storing customer and booking details.
 
-## 📂 Project Structure
-
-```
-HotelBookingSystem/
-├── src/
-│   ├── GUI/            # User Interface Files
-│   ├── Model/          # Data Models
-│   └── Controller/     # Business Logic
-└── README.md
-```
 
 ## 🚀 How to Run the Project
 
@@ -32,7 +22,7 @@ HotelBookingSystem/
 2. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/HotelBookingSystem.git
+    git clone https://github.com/Hirushan-Subasinghe/HotelBookingSystem.git
     cd HotelBookingSystem
     ```
 
